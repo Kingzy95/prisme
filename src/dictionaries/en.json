@@ -1,0 +1,34 @@
+{
+  "common": {
+    "search": "Search",
+    "menu": "Menu",
+    "darkMode": "Dark mode",
+    "lightMode": "Light mode",
+    "login": "Login",
+    "signup": "Sign up",
+    "logout": "Logout"
+  },
+  "nav": {
+    "home": "Home",
+    "politics": "Politics",
+    "economy": "Economy",
+    "culture": "Culture",
+    "sports": "Sports",
+    "tech": "Technology"
+  },
+  "home": {
+    "featured": "Featured",
+    "latest": "Latest news",
+    "popular": "Popular articles",
+    "categories": "Categories",
+    "newsletter": {
+      "title": "Newsletter",
+      "description": "Get our latest news",
+      "placeholder": "Your email",
+      "button": "Subscribe",
+      "success": "Successfully subscribed!",
+      "error": "An error occurred"
+    }
+  }
+}
+

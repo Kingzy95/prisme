@@ -1,0 +1,34 @@
+{
+  "common": {
+    "search": "Rechercher",
+    "menu": "Menu",
+    "darkMode": "Mode sombre",
+    "lightMode": "Mode clair",
+    "login": "Se connecter",
+    "signup": "S'inscrire",
+    "logout": "Se déconnecter"
+  },
+  "nav": {
+    "home": "Accueil",
+    "politics": "Politique",
+    "economy": "Économie",
+    "culture": "Culture",
+    "sports": "Sports",
+    "tech": "Technologie"
+  },
+  "home": {
+    "featured": "À la une",
+    "latest": "Dernières actualités",
+    "popular": "Articles populaires",
+    "categories": "Catégories",
+    "newsletter": {
+      "title": "Newsletter",
+      "description": "Recevez nos dernières actualités",
+      "placeholder": "Votre email",
+      "button": "S'inscrire",
+      "success": "Inscription réussie !",
+      "error": "Une erreur est survenue"
+    }
+  }
+}
+
